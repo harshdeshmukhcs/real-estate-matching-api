@@ -19,7 +19,7 @@ The API allows users to:
 - SQLAlchemy
 - Pydantic
 - SQLite
-- Docker (optional)
+- Docker
 
 ---
 
